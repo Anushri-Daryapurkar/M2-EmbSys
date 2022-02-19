@@ -12,8 +12,18 @@
 
 ![Fitness_Tracker](https://user-images.githubusercontent.com/98867361/154792665-3b9adea4-e928-490b-bed0-f8e5bf13630b.png)
 
-## Detail requirements
-## High Level Requirements: 
+### Microcontroller
+- Microcontroller is used to do a speific task
+ 
+### LCD Display
+- To display all the parameters like temperature, humidity, step count and Heart Beat Counts on the screen
+
+### Battery Charger
+- Fitess tracker is built with battery. to charge the battery battery charger is connected
+
+
+## Requirements
+## High Level Requirements 
 | ID | Description | 
 | ----- | ----- | 
 | HR01 | Should be able to turn on after pushing Power button |
@@ -22,8 +32,7 @@
 | HR04 | Should be able to display Steps count on the screen |
 | HR05 | Should be able to connect to the Bluetooth |
 
-##  Low level Requirements:
-
+##  Low level Requirements
 | ID | Description |
 | ------ | --------- | 
 | LR01 | Should be able to monitor and charge the battery | 
