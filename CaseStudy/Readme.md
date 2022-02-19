@@ -36,7 +36,6 @@
 | ID | Description |
 | ------ | --------- | 
 | LR01 | Should be able to monitor and charge the battery | 
-| LR02 | Temperature should be sensed by sensor | 
-| LR03 | Humidity should be sensed by sensor | 
-| LR04 | Heart Beat rate should be count by sensor | 
-| LR05 | Sensor should sense the number of steps user take | 
+| LR02 | Temperature and Humidity should be sensed by sensor |  
+| LR03 | Heart Beat rate should be count by sensor | 
+| LR04 | Sensor should sense the number of steps user take | 
