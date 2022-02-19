@@ -39,3 +39,4 @@
 | LR02 | Temperature and Humidity should be sensed by sensor |  
 | LR03 | Heart Beat rate should be count by sensor | 
 | LR04 | Sensor should sense the number of steps user take | 
+| LR05 | Bluetooth should be connected to the available nearby device | 
