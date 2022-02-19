@@ -40,3 +40,13 @@
 | LR03 | Heart Beat rate should be count by sensor | 
 | LR04 | Sensor should sense the number of steps user take | 
 | LR05 | Bluetooth should be connected to the available nearby device | 
+
+
+# Mid-Complex Embedded System
+
+## Automatic Teller Machine
+
+## Block Diagram
+
+![ATM_BlockDiagram](https://user-images.githubusercontent.com/98867361/154805841-384be628-4d9e-421e-89e3-7bc9a3374598.png)
+
