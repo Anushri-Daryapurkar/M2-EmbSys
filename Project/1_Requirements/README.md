@@ -21,10 +21,13 @@
 | LR03 | LED should glow Red when valve is open. | HR03 |
 | LR04 | LED should glow green when valve is closed. | HR03 |
 | LR05 | Potentiometer should regulate the voltage properly. | HR04 |
+<br/>
 
 
 ## **BLOCK DIAGRAM**
 ![WaterLevelControl](https://user-images.githubusercontent.com/98867361/155748963-c843c468-5965-4576-a6c3-b16b751cb8f5.png)
+<br/>
+
 
 ## **Description**
 
@@ -45,5 +48,16 @@
 
 ### Voltmeter
 - Voltmeters can also be used to measure DC voltage as well as sinusoidal AC voltages but the introduction of a voltmeter as a measuring instrument into a circuit can interfere with its steady state conditions.
+<br/>
 
+## **Applications**
 
+- Can be used in water tanks to control water levels.
+
+- Automatically turn ON/OFF pumps.
+
+- Can be used in factories, commercial complexes, apartments, home.
+
+- Oil tank level control.
+
+- Pool water level control.
