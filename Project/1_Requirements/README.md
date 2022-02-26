@@ -50,6 +50,26 @@
 - Voltmeters can also be used to measure DC voltage as well as sinusoidal AC voltages but the introduction of a voltmeter as a measuring instrument into a circuit can interfere with its steady state conditions.
 <br/>
 
+
+## **4W's and 1'H**
+
+### Who
+- Anyone in industrial and domestic purpose can use this system
+
+### What
+- This system will turn ON/OFF the motor depending upon the level of water in the tank
+
+### When
+- Depending on the water level it will ON/OFF the motor
+
+### Where
+- In industrial as well as domestic purposes.
+
+### How
+- This system controls the motor depending on the water level in the tank
+<br/>
+
+
 ## **Applications**
 
 - Can be used in water tanks to control water levels.
