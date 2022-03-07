@@ -18,8 +18,18 @@
 |LR_03    |  LED should glow Red when valve is open.          | Taking input from Arduino       |   Red LED will glow    |    Passed     |
 |LR_04    |         LED should glow green when valve is closed.|     Taking input from Arduino    |    Green LED will glow    |    Passed     |
 |LR_05   |      Potentiometer should regulate the voltage properly|     5V supply  |    Voltmeter will show the reading.    |    Passed     |
+<br/>
+<br/>
 
 
+## OUTPUT
+### When Motor is OFF and Green LED glows
+![MOTOR OFF](https://user-images.githubusercontent.com/98867361/157077845-f3fc0a54-3b08-41b7-8da8-060162cafd9e.png)
+<br/>
+<br/>
+<br/>
 
+### When Motor is ON and Red LED glows
+![MOTOR ON ](https://user-images.githubusercontent.com/98867361/157077891-b82621b7-0b3d-4693-a38c-c494abe38a98.png)
 
 
