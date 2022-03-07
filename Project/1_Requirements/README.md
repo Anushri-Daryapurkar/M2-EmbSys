@@ -78,12 +78,9 @@
  ### STRENGTHS
 * Easy to install, manage and maintain and low maintenance.
 * Highly reliable and Economically competitive.
-* Enhanced Security of Urban Water supply and Water use efficiency.
 
  ### WEAKNESSES
 * The automatic water level controller shows poor durability.
-* When a problem arose, there is no built-in function to help identify the source of the
-failure.
 * Water level controls need to be replaced every 3 years.
 
  ### OPPORTUNITIES
