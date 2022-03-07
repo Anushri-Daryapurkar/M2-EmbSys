@@ -74,24 +74,9 @@
 
 
 ## SWOT analysis :
-
- ### STRENGTHS
-* Easy to install, manage and maintain and low maintenance.
-* Highly reliable and Economically competitive.
-
- ### WEAKNESSES
-* The automatic water level controller shows poor durability.
-* Water level controls need to be replaced every 3 years.
-
- ### OPPORTUNITIES
-* It Develops Water Saving Technology.
-* Maximize Water supply Benefits and provide balanced allocation of water resources.
+![SWOT_Analysis](https://user-images.githubusercontent.com/98867361/157009428-60ec2ea4-6502-4254-9ad5-541c09e2e0b5.png)
 
 
- ### THREATS
-* Skills for repair/spare parts not available in most of the areas.
-* Any sort of defect or fault in the circuit will cause problem in water supply. 
-<br/> 
 
 ## **Applications**
 
