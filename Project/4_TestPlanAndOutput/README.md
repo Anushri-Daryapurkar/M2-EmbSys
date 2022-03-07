@@ -21,12 +21,5 @@
 
 
 
-## OUTPUT
 
-### Output when Motor is ON and Red LED glows
-![MOTOR ON ](https://user-images.githubusercontent.com/98867361/157002862-32bc6f64-fc17-4d22-9c85-3f8354e821e7.png)
-<br/>
-
-### Output when Motor is OFF and Green LED glows
-![MOTOR OFF](https://user-images.githubusercontent.com/98867361/157002918-135093ab-6c18-4403-895f-7148162afd5a.png)
 
