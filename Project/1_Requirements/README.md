@@ -55,11 +55,9 @@
 ## **4W's and 1'H**
 
 ### Who
-
 - Anyone in industrial and domestic purpose can use this system
 
 ### What
-
 - This system will turn ON/OFF the motor depending upon the level of water in the tank
 
 ### When
@@ -79,6 +77,7 @@
 
 
 ## **Applications**
+
 
 - Can be used in water tanks to control water levels.
 
