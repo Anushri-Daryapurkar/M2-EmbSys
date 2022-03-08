@@ -1,12 +1,9 @@
-# REPORT
-
 # **WATER SUPPLY CONTROL SYSTEM**
-
-
-### **ABSTRACT**
-> Water tank overflow is a common problem which leads to the wastage of water. This circuit will detect the water level and will blink a red or green colour upon getting the water tank full or a preset level. Water level indicator is a modern way of measuring the water level using latest technologies like sensors, Arduino. The main aim of the project is to observe the water level at any instant of time using Arduino, Servo Motor and Ultrasonic sensor to make it possible. As the motor will turn off when the tank fulls with water so that the water will not overflow. This may be useful in saving water from getting waste.
 <br/>
 
+## **ABSTRACT**
+> Water tank overflow is a common problem which leads to the wastage of water. This circuit will detect the water level and will blink a red or green colour upon getting the water tank full or a preset level. Water level indicator is a modern way of measuring the water level using latest technologies like sensors, Arduino. The main aim of the project is to observe the water level at any instant of time using Arduino, Servo Motor and Ultrasonic sensor to make it possible. As the motor will turn off when the tank fulls with water so that the water will not overflow. This may be useful in saving water from getting waste.
+<br/>
 
 ## **DETAILED REQUIREMENTS**
 
@@ -28,11 +25,9 @@
 | LR05 | Potentiometer should regulate the voltage properly. | HR04 |
 <br/>
 
-
 ## **BLOCK DIAGRAM**
 ![WaterLevelControl](https://user-images.githubusercontent.com/98867361/155748963-c843c468-5965-4576-a6c3-b16b751cb8f5.png)
 <br/>
-
 
 ## **Description**
 
@@ -55,7 +50,6 @@
 - Voltmeters can also be used to measure DC voltage as well as sinusoidal AC voltages but the introduction of a voltmeter as a measuring instrument into a circuit can interfere with its steady state conditions.
 <br/>
 
-
 ## **4W's and 1'H**
 
 ### Who
@@ -74,15 +68,11 @@
 - This system controls the motor depending on the water level in the tank
 <br/>
 
-
-## SWOT analysis :
+## SWOT analysis
 ![SWOT_Analysis](https://user-images.githubusercontent.com/98867361/157009221-dc6bd894-d7ac-410d-aa67-156b6ee374d2.png)
-
-
-
+<br/>
 
 ## **Applications**
-
 - Can be used in water tanks to control water levels.
 
 - Automatically turn ON/OFF pumps.
@@ -92,7 +82,7 @@
 - Oil tank level control.
 
 - Pool water level control.
-
+<br/>
 
 ## HIGH LEVEL TEST PLAN
 
@@ -102,8 +92,7 @@
 |HR_02    |  Ultra-sonic sensor should sense the water level           | Water should be there in the tank to sense the level of water        |Sensor will sense the water level in the tank         | Passed  |
 |HR_03    |  LED should glow RED/GREEN           | After sensing  Arduino will glow LED red or green        |   Red/green LED should glow      |    Passed     |
 |HR_04    |         Voltmeter should measure the voltage    |      Potentiometer    |    Voltmeter will show the readings according to the potentiometer     |    Passed     |
-
-
+<br/>
 
 ## LOW LEVEL TEST PLAN
 
@@ -114,8 +103,7 @@
 |LR_03    |  LED should glow Red when valve is open.          | Taking input from Arduino       |   Red LED will glow    |    Passed     |
 |LR_04    |         LED should glow green when valve is closed.|     Taking input from Arduino    |    Green LED will glow    |    Passed     |
 |LR_05   |      Potentiometer should regulate the voltage properly|     5V supply  |    Voltmeter will show the reading.    |    Passed     |
-
-
+<br/>
 
 ## OUTPUT
 
@@ -125,4 +113,3 @@
 
 ### Output when Motor is OFF and Green LED glows
 ![MOTOR OFF](https://user-images.githubusercontent.com/98867361/157002918-135093ab-6c18-4403-895f-7148162afd5a.png)
-
