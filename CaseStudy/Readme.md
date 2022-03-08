@@ -45,8 +45,8 @@
 
 ## Application
 
-- Wuth the help of this fitness tracker you can tops up your fitness plan
-- Can monitor user's health
+-  With the help of this fitness tracker you can tops up your fitness plan
+-  Can monitor user's health
 <br/>
 
 ## Mid-Complex Embedded System
