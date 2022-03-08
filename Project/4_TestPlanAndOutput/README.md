@@ -6,8 +6,7 @@
 |HR_02    |  Ultra-sonic sensor should sense the water level           | Water should be there in the tank to sense the level of water        |Sensor will sense the water level in the tank         | Passed  |
 |HR_03    |  LED should glow RED/GREEN           | After sensing  Arduino will glow LED red or green        |   Red/green LED should glow      |    Passed     |
 |HR_04    |         Voltmeter should measure the voltage    |      Potentiometer    |    Voltmeter will show the readings according to the potentiometer     |    Passed     |
-
-
+<br/>
 
 # LOW LEVEL TEST PLAN
 
