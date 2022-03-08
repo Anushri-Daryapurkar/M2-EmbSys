@@ -6,7 +6,6 @@
 <br/>
 
 ## **DETAILED REQUIREMENTS**
-
 ## **High Level Requirements**
 | ID | Description | 
 | ----- | ----- | 
@@ -28,7 +27,6 @@
 ## **BLOCK DIAGRAM**
 ![WaterLevelControl](https://user-images.githubusercontent.com/98867361/155748963-c843c468-5965-4576-a6c3-b16b751cb8f5.png)
 <br/>
-
 
 ## **Description**
 
@@ -71,16 +69,11 @@
 
 ## SWOT analysis 
 ![SWOT_Analysis](https://user-images.githubusercontent.com/98867361/157009428-60ec2ea4-6502-4254-9ad5-541c09e2e0b5.png)
+<br/>
 
 ## **Applications**
-
-
 - Can be used in water tanks to control water levels.
-
 - Automatically turn ON/OFF pumps.
-
 - Can be used in factories, commercial complexes, apartments, home.
-
 - Oil tank level control.
-
 - Pool water level control.
