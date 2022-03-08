@@ -1,7 +1,7 @@
 # **WATER SUPPLY CONTROL SYSTEM**
 
 
-### **ABSTRACT**
+## **ABSTRACT**
 > Water tank overflow is a common problem which leads to the wastage of water. This circuit will detect the water level and will blink a red or green colour upon getting the water tank full or a preset level. Water level indicator is a modern way of measuring the water level using latest technologies like sensors, Arduino. The main aim of the project is to observe the water level at any instant of time using Arduino, Servo Motor and Ultrasonic sensor to make it possible. As the motor will turn off when the tank fulls with water so that the water will not overflow. This may be useful in saving water from getting waste.
 <br/>
 
@@ -25,7 +25,6 @@
 | LR04 | LED should glow green when valve is closed. | HR03 |
 | LR05 | Potentiometer should regulate the voltage properly. | HR04 |
 <br/>
-
 
 ## **BLOCK DIAGRAM**
 ![WaterLevelControl](https://user-images.githubusercontent.com/98867361/155748963-c843c468-5965-4576-a6c3-b16b751cb8f5.png)
@@ -73,7 +72,7 @@
 <br/>
 
 
-## SWOT analysis :
+## SWOT analysis 
 ![SWOT_Analysis](https://user-images.githubusercontent.com/98867361/157009428-60ec2ea4-6502-4254-9ad5-541c09e2e0b5.png)
 
 
