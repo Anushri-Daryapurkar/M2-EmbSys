@@ -12,5 +12,4 @@ Folder             | Description
 `3_Implementation` | All code and documentation
 `4_TestPlanAndOutput`      | Test plans and output
 `5_Report` | Documents detailing requirements and research
-`6_VieosAndImages`   | Output Images
-
+`6_ImagesAndVideos`      | Images and Video added
