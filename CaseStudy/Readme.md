@@ -2,11 +2,11 @@
 
 ## Fitness Tracker (Smart Watch)
 
-- A Fitness tracker is a watch that offers extra functionality and connectivity on top of the features offered by standard watches
+-  A Fitness tracker is a watch that offers extra functionality and connectivity on top of the features offered by standard watches
 
-- They do this by including a embedded system that carries out the normal functionality we expect.
+-  They do this by including a embedded system that carries out the normal functionality we expect.
 
-- This can be Worn on the wrist. Common pieces of functionality found in these types of watch are: Heart rate monitor, Step Count Monitor, Temperature and Humidity Sensor
+-  This can be Worn on the wrist. Common pieces of functionality found in these types of watch are: Heart rate monitor, Step Count Monitor, Temperature and Humidity Sensor
 <br/>
 
 ## Block Diagram
@@ -14,13 +14,13 @@
 <br/>
 
 ### Microcontroller
-- Microcontroller is used to do a speific task
+-  Microcontroller is used to do a speific task
  
 ### LCD Display
-- To display all the parameters like temperature, humidity, step count and Heart Beat Counts on the screen
+-  To display all the parameters like temperature, humidity, step count and Heart Beat Counts on the screen
 
 ### Battery Charger
-- Fitess tracker is built with battery. to charge the battery battery charger is connected
+-  Fitess tracker is built with battery. to charge the battery battery charger is connected
 <br/>
 
 ## Requirements
@@ -53,5 +53,5 @@
 
 ## Automatic Teller Machine
 
-## Block Diagram
+## ATM Block Diagram
 ![ATM_BlockDiagram](https://user-images.githubusercontent.com/98867361/154805841-384be628-4d9e-421e-89e3-7bc9a3374598.png)
