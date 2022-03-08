@@ -74,13 +74,9 @@
 
 ## **Applications**
 - Can be used in water tanks to control water levels.
-
 - Automatically turn ON/OFF pumps.
-
 - Can be used in factories, commercial complexes, apartments, home.
-
 - Oil tank level control.
-
 - Pool water level control.
 <br/>
 
